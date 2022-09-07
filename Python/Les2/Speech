@@ -1,0 +1,13 @@
+if (statement):
+	body
+elif (statement):
+	body
+else:
+	body
+
+
+for(iterator, statement, to_do):
+	body
+
+while (statement):
+	body
